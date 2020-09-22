@@ -1,0 +1,96 @@
+@charset "utf-8";
+
+/****************************************************
+poppinparty
+****************************************************/
+.list section:nth-of-type(1)>div>div:nth-of-type(1)>a>div:nth-of-type(2) {
+    background-color: #f4b7df;
+}
+.list section:nth-of-type(1)>div>div:nth-of-type(2)>a>div:nth-of-type(2) {
+    background-color: #f9da4b;
+}
+.list section:nth-of-type(1)>div>div:nth-of-type(3)>a>div:nth-of-type(2) {
+    background-color: #e7908d;
+}
+.list section:nth-of-type(1)>div>div:nth-of-type(4)>a>div:nth-of-type(2) {
+    background-color: #d1b6ee;
+}
+.list section:nth-of-type(1)>div>div:nth-of-type(5)>a>div:nth-of-type(2) {
+    background-color: #8ac7fa;
+}
+
+/****************************************************
+afterglow
+****************************************************/
+.list section:nth-of-type(2)>div>div:nth-of-type(1)>a>div:nth-of-type(2) {
+    background-color: #f4bcba;
+}
+.list section:nth-of-type(2)>div>div:nth-of-type(2)>a>div:nth-of-type(2) {
+    background-color: #ead58f;
+}
+.list section:nth-of-type(2)>div>div:nth-of-type(3)>a>div:nth-of-type(2) {
+    background-color: #db7584;
+}
+.list section:nth-of-type(2)>div>div:nth-of-type(4)>a>div:nth-of-type(2) {
+    background-color: #a66d7e;
+}
+.list section:nth-of-type(2)>div>div:nth-of-type(5)>a>div:nth-of-type(2) {
+    background-color: #8cc9c8;
+}
+
+/****************************************************
+pastelpalettes
+****************************************************/
+.list section:nth-of-type(3)>div>div:nth-of-type(1)>a>div:nth-of-type(2) {
+    background-color: #fdf5a4;
+}
+.list section:nth-of-type(3)>div>div:nth-of-type(2)>a>div:nth-of-type(2) {
+    background-color: #eed3fc;
+}
+.list section:nth-of-type(3)>div>div:nth-of-type(3)>a>div:nth-of-type(2) {
+    background-color: #f4b5d5;
+}
+.list section:nth-of-type(3)>div>div:nth-of-type(4)>a>div:nth-of-type(2) {
+    background-color: #a9eccb;
+}
+.list section:nth-of-type(3)>div>div:nth-of-type(5)>a>div:nth-of-type(2) {
+    background-color: #9eeaed;
+}
+
+/****************************************************
+roselia
+****************************************************/
+.list section:nth-of-type(4)>div>div:nth-of-type(1)>a>div:nth-of-type(2) {
+    background-color: #96dad6;
+}
+.list section:nth-of-type(4)>div>div:nth-of-type(2)>a>div:nth-of-type(2) {
+    background-color: #ee89c9;
+}
+.list section:nth-of-type(4)>div>div:nth-of-type(3)>a>div:nth-of-type(2) {
+    background-color: #bf85b6;
+}
+.list section:nth-of-type(4)>div>div:nth-of-type(4)>a>div:nth-of-type(2) {
+    background-color: #cdc8d0;
+}
+.list section:nth-of-type(4)>div>div:nth-of-type(5)>a>div:nth-of-type(2) {
+    background-color: #f09a76;
+}
+
+/****************************************************
+hello-happy-world
+****************************************************/
+.list section:nth-of-type(5)>div>div:nth-of-type(1)>a>div:nth-of-type(2) {
+    background-color: #f5c07e;
+}
+.list section:nth-of-type(5)>div>div:nth-of-type(2)>a>div:nth-of-type(2) {
+    background-color: #95bed9;
+}
+.list section:nth-of-type(5)>div>div:nth-of-type(3)>a>div:nth-of-type(2) {
+    background-color: #fcec50;
+}
+.list section:nth-of-type(5)>div>div:nth-of-type(4)>a>div:nth-of-type(2) {
+    background-color: #c687ca;
+}
+.list section:nth-of-type(5)>div>div:nth-of-type(5)>a>div:nth-of-type(2) {
+    background-color: #add8fb;
+}
